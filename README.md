@@ -1,2 +1,2 @@
 # Generalizing-Cardiac-Image-Segmentation-
- Build  Machine Learning models that generalize cardiac image segmentation using various MRI scans collected from different clinical centres.
+ Building Machine Learning models that generalize cardiac image segmentation using various MRI scans collected from different clinical centres.
